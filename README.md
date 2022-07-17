@@ -1,4 +1,4 @@
-# -ALT-V-Car-tuning
+# Alt-V-Car-Tuning
 Script for tuning cars
 
 This is a system for novice players that allows you to make car tuning. But it is worth noting that I left (yes, on purpose) a few simple bugs, so that you, novice developers, would not take everything for free.
